@@ -1,0 +1,17 @@
+npx create-react-app [nameApp]
+
+npm install --save react@16.4.2 react-dom@16.4.2 react-scripts@4.0.1 //16.2.0
+
+npm install --save core-js@^3
+
+npm install devextreme@20.2 devextreme-react@20.2 --save --save-exact
+
+
+npm install --no-optional
+
+
+
+links
+-------------
+https://lenguajejs.com/npm/administracion/crear-nuevo-proyecto/
+https://es.stackoverflow.com/questions/24268/cómo-actualizo-nodejs-en-windows
